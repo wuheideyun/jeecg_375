@@ -143,7 +143,7 @@ public class CgformJavaInterDemo implements CgformEnhanceJavaInter {
         }
         return locno;
     }
-  //查找货位
+  //修改状态
     public void updateFetchStatus(String fetchid,Connection con) throws BusinessException {
         PreparedStatement sta = null;  
         PreparedStatement insertst = null;  
