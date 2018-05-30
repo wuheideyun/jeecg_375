@@ -290,7 +290,7 @@ public class DynamicDBUtil {
 		
 		String dbKey = "SAP_DB";
 		String driverClassName = "com.mysql.jdbc.Driver";
-		String url = "jdbc:mysql://localhost:3306/jeecg_371";
+		String url = "jdbc:mysql://localhost:3306/jeecg_375";
 		String dbUser = "root";
 		String dbPassword = "root";
 		

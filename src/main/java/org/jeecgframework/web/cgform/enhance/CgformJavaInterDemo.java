@@ -28,7 +28,7 @@ public class CgformJavaInterDemo implements CgformEnhanceJavaInter {
     		throw new BusinessException("已经提交的订单不能再次上架");
 		}
     	String driver = "com.mysql.jdbc.Driver";    
-    	String URL = "jdbc:mysql://localhost:3306/jeecg_371";    
+    	String URL = "jdbc:mysql://localhost:3306/jeecg_375";    
         Connection con = null;  
         ResultSet rs = null;  
         PreparedStatement sts = null;  
